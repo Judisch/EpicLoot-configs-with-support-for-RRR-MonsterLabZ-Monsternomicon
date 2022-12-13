@@ -1198,6 +1198,270 @@
     },
 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    // MOD - Monsternomicon
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+    // Monsternomicon - Ocean
+    ////////////////////////////////////////////////////////////////////////////////////
+
+    {
+      "Object": "RRRM_DrownedSoul",
+      "RefObject": "Tier4Mob"
+    },
+
+    {
+      "Object": "RRRM_OceanKraken",
+      "RefObject": "Tier4Mob"
+    },
+
+    {
+      "Object": "RRRM_StormHatchling",
+      "RefObject": "Tier4Mob"
+    },
+
+    // Monsternomicon - Other
+    ////////////////////////////////////////////////////////////////////////////////////
+
+    {
+      "Object": "RRRM_StormFenring",
+      "RefObject": "Tier5Mob"
+    },
+
+    {
+      "Object": "RRRM_StormWolf",
+      "RefObject": "Tier5Mob"
+    },
+
+    // Monsternomicon - Mistlands
+    ////////////////////////////////////////////////////////////////////////////////////
+
+    {
+      "Object": "RRRM_DarkBat",
+      "RefObject": "Tier6Mob"
+    },
+
+    {
+      "Object": "RRRM_DarkMoth",
+      "RefObject": "Tier6Mob"
+    },
+
+    {
+      "Object": "RRRM_DarkProtector",
+      "RefObject": "Tier6Mob"
+    },
+
+    {
+      "Object": "RRRM_DarkSpider",
+      "RefObject": "Tier6Mob"
+    },
+
+    {
+      "Object": "RRRM_DarkSpiderMother",
+      "RefObject": "Tier6Mob"
+    },
+
+    {
+      "Object": "RRRM_DarkSpiderPoison",
+      "RefObject": "Tier6Mob"
+    },
+
+    {
+      "Object": "RRRM_DarkSpiderSmall",
+      "RefObject": "Tier6Mob"
+    },
+
+    {
+      "Object": "RRRM_DarkWorm",
+      "RefObject": "Tier6Mob"
+    },
+
+    {
+      "Object": "RRRM_ShadowUlv",
+      "RefObject": "Tier6Mob"
+    },
+
+    {
+      "Object": "RRRM_SvartalfrAll",
+      "RefObject": "Tier6Mob"
+    },
+
+    {
+      "Object": "RRRM_SvartalfrArcher",
+      "RefObject": "Tier6Mob"
+    },
+
+    {
+      "Object": "RRRM_SvartalfrHeavy",
+      "RefObject": "Tier6Mob"
+    },
+
+    {
+      "Object": "RRRM_SvartalfrMage",
+      "RefObject": "Tier6Mob"
+    },
+
+    {
+      "Object": "RRRM_SvartalfrQueen",
+      "RefObject": "Tier6Mob"
+    },
+
+    {
+      "Object": "RRRM_SvartalfrWarrior",
+      "RefObject": "Tier6Mob"
+    },
+
+    // Monsternomicon - Deep North
+    ////////////////////////////////////////////////////////////////////////////////////
+
+    {
+      "Object": "RRRM_AngryFrozenCorpse",
+      "RefObject": "Tier7Mob"
+    },
+
+    {
+      "Object": "RRRM_AngrySpirit",
+      "RefObject": "Tier7Mob"
+    },
+
+    {
+      "Object": "RRRM_CalmSpirit",
+      "RefObject": "Tier7Mob"
+    },
+
+    {
+      "Object": "RRRM_ForgottenOne",
+      "RefObject": "Tier7Mob"
+    },
+
+    {
+      "Object": "RRRM_FrozenCorpse",
+      "RefObject": "Tier7Mob"
+    },
+
+    {
+      "Object": "RRRM_Jotunn",
+      "RefObject": "Tier7Mob"
+    },
+
+    {
+      "Object": "RRRM_PolarFenring",
+      "RefObject": "Tier7Mob"
+    },
+
+    {
+      "Object": "RRRM_PolarFenringAmbush",
+      "RefObject": "Tier7Mob"
+    },
+
+    {
+      "Object": "RRRM_PolarFenringDevourer",
+      "RefObject": "Tier7Mob"
+    },
+
+    {
+      "Object": "RRRM_PolarGolem",
+      "RefObject": "Tier7Mob"
+    },
+
+    {
+      "Object": "RRRM_PolarLox",
+      "RefObject": "Tier7Mob"
+    },
+
+    {
+      "Object": "RRRM_PolarLoxSmall",
+      "RefObject": "Tier7Mob"
+    },
+
+    {
+      "Object": "RRRM_PolarSerpentSmall",
+      "RefObject": "Tier7Mob"
+    },
+
+    {
+      "Object": "RRRM_PolarUlv",
+      "RefObject": "Tier7Mob"
+    },
+
+    // Monsternomicon - Ashlands
+    ////////////////////////////////////////////////////////////////////////////////////
+
+    {
+      "Object": "RRRM_AshBlobTar",
+      "RefObject": "Tier7Mob"
+    },
+
+    {
+      "Object": "RRRM_AshBlobTarBig",
+      "RefObject": "Tier7Mob"
+    },
+
+    {
+      "Object": "RRRM_AshBlobTarBurning",
+      "RefObject": "Tier7Mob"
+    },
+
+    {
+      "Object": "RRRM_AshDragon",
+      "RefObject": "Tier7Mob"
+    },
+
+    {
+      "Object": "RRRM_AshDragonFather",
+      "RefObject": "Tier7Mob"
+    },
+
+    {
+      "Object": "RRRM_AshGolem",
+      "RefObject": "Tier7Mob"
+    },
+
+    {
+      "Object": "RRRM_AshMosquito",
+      "RefObject": "Tier7Mob"
+    },
+
+    {
+      "Object": "RRRM_AshNeck",
+      "RefObject": "Tier7Mob"
+    },
+
+    {
+      "Object": "RRRM_AshNeckSmall",
+      "RefObject": "Tier7Mob"
+    },
+
+    {
+      "Object": "RRRM_AshSurtling",
+      "RefObject": "Tier7Mob"
+    },
+
+    {
+      "Object": "RRRM_BlazingBones",
+      "RefObject": "Tier7Mob"
+    },
+
+    {
+      "Object": "RRRM_BlazingDammedOne",
+      "RefObject": "Tier7Mob"
+    },
+
+    {
+      "Object": "RRRM_BurnedBones",
+      "RefObject": "Tier7Mob"
+    },
+
+    {
+      "Object": "RRRM_DammedOne",
+      "RefObject": "Tier7Mob"
+    },
+
+    {
+      "Object": "RRRM_SwollenBody",
+      "RefObject": "Tier7Mob"
+    },
+
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // BOSSES
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
