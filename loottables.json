@@ -1455,6 +1455,143 @@
     },
 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    // MOD - MonsterLabZ
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+    // MonsterLabZ is poorly documented, so I am guessing the tiers based on the mob's health
+    // this definitely does not match up to their spawn locations - IceSkeletonWarrior spawns in the Deep North, but has the same health as Swamp mobs
+
+    {
+      "Object": "NormalSkeletonWarrior",
+      "RefObject": "Tier1Mob"
+    },
+
+    {
+      "Object": "PoisonSkeletonWarrior",
+      "RefObject": "Tier2Mob"
+    },
+
+    {
+      "Object": "Treespider",
+      "RefObject": "Tier2Mob"
+    },
+
+    {
+      "Object": "ForestSpider",
+      "RefObject": "Tier2Mob"
+    },
+
+    {
+      "Object": "GreenSpider",
+      "RefObject": "Tier2Mob"
+    },
+
+    {
+      "Object": "Greydwarf_Purple",
+      "RefObject": "Tier2Mob"
+    },
+
+    {
+      "Object": "Greydwarf_Purple_Shroom",
+      "RefObject": "Tier2Mob"
+    },
+
+    {
+      "Object": "Molluscan",
+      "RefObject": "Tier3Mob"
+    },
+
+    {
+      "Object": "MolluscanLand",
+      "RefObject": "Tier3Mob"
+    },
+
+    {
+      "Object": "Rainbow_Butterfly",
+      "RefObject": "Tier3Mob"
+    },
+
+    {
+      "Object": "BrownSpider",
+      "RefObject": "Tier4Mob"
+    },
+
+    {
+      "Object": "FrigidSpider",
+      "RefObject": "Tier4Mob"
+    },
+
+    {
+      "Object": "FrostSpider",
+      "RefObject": "Tier4Mob"
+    },
+
+    {
+      "Object": "DwarfGoblin",
+      "RefObject": "Tier4Mob"
+    },
+
+    {
+      "Object": "DwarfGoblinLoot",
+      "RefObject": "Tier4Mob"
+    },
+
+    {
+      "Object": "DwarfGoblinShaman",
+      "RefObject": "Tier4Mob"
+    },
+
+    {
+      "Object": "WraithWarrior",
+      "RefObject": "Tier4Mob"
+    },
+
+    {
+      "Object": "ML_DraugrShip",
+      "RefObject": "Tier5Mob"
+    },
+
+    {
+      "Object": "IceSkeletonWarrior",
+      "RefObject": "Tier5Mob"
+    },
+
+    {
+      "Object": "ML_GoblinLox",
+      "RefObject": "Tier6Mob"
+    },
+
+    {
+      "Object": "ML_GoblinShip",
+      "RefObject": "Tier6Mob"
+    },
+
+    {
+      "Object": "Succubus",
+      "RefObject": "Tier7Mob"
+    },
+
+    {
+      "Object": "FireGolem",
+      "RefObject": "Tier7Mob"
+    },
+
+    {
+      "Object": "DeepSea_Serpent",
+      "RefObject": "Tier7Mob"
+    },
+
+    {
+      "Object": "KrakenLD",
+      "RefObject": "Tier7Mob"
+    },
+
+    {
+      "Object": "IceGolem",
+      "RefObject": "Tier7Mob"
+    },
+
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // BOSSES
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
